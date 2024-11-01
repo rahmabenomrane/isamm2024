@@ -2,8 +2,5 @@ gatous1
 gatous2
 gatous3
 chien
-<<<<<<< HEAD
 testchat
-=======
->>>>>>> testing
 testback branch
